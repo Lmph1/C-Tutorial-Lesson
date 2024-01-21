@@ -1,0 +1,11 @@
+EXPORTS
+    _ZN6MyMath3AddEdd @1
+    _ZN6MyMath5powerEdi @2
+    _ZN6MyMathC1Ev @3
+    _ZN6MyMathC2Ev @4
+    _ZN6MyMathD0Ev @5
+    _ZN6MyMathD1Ev @6
+    _ZN6MyMathD2Ev @7
+    _ZTI6MyMath @8 DATA
+    _ZTS6MyMath @9 DATA
+    _ZTV6MyMath @10 DATA
